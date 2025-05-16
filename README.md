@@ -49,9 +49,6 @@ To develop a streaming data pipeline using Apache Kafka that simulates weather d
 ### 📝 Report
 - `assignment_5.pdf` — Final assignment report with implementation steps, screenshots, and observations
 
-### 📊 (Optional)
-- `weather_data_backup.sql` — Optional PostgreSQL dump of the database (use `pg_dump` to generate)
-
 ---
 
 ## ⚡ How to Run
@@ -93,10 +90,3 @@ This project successfully demonstrates a working real-time data pipeline using A
 
 ---
 
-## 📷 Screenshots
-> *(To be embedded manually in GitHub or included in `assignment_5.pdf`)*
-- Zookeeper and Kafka terminals
-- Topic creation
-- Producer and consumer terminals
-- Logs
-- PostgreSQL table output
